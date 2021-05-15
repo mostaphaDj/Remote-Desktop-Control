@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006-01-01 17:20:50.984.pas,C:\Documents and Settings\Djaballah\My Documents\RAD Studio\Projects\Unit1.pas=C:\Documents and Settings\Djaballah\Desktop\New Folder\Unit1.pas</Transaction>
+    <Transaction>2006-01-01 17:20:50.984.dfm,C:\Documents and Settings\Djaballah\My Documents\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Djaballah\Desktop\New Folder\Unit1.dfm</Transaction>
+    <Transaction>2006-01-01 17:20:53.421.dproj,C:\Documents and Settings\Djaballah\My Documents\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\Djaballah\Desktop\New Folder\Project1.dproj</Transaction>
+    <Transaction>2006-01-30 18:17:11.718.dproj,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Project1.dproj=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client.dproj</Transaction>
+    <Transaction>2006-01-03 06:24:04.281.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Unit2.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\ScreenShots_U.pas</Transaction>
+    <Transaction>2006-01-04 01:39:43.343.dproj,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Client.dproj=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Server.dproj</Transaction>
+    <Transaction>2006-01-04 02:05:34.000.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Unit2.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Options_U.pas</Transaction>
+    <Transaction>2006-01-04 02:05:34.000.dfm,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Unit2.dfm=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Options_U.dfm</Transaction>
+    <Transaction>2006-01-04 02:07:44.703.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Options_U.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Options_U.pas</Transaction>
+    <Transaction>2006-01-04 02:07:44.703.dfm,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Options_U.dfm=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Options_U.dfm</Transaction>
+    <Transaction>2006-01-04 02:07:49.515.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Options_U.pas=</Transaction>
+    <Transaction>2006-01-04 02:07:49.515.dfm,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Options_U.dfm=</Transaction>
+    <Transaction>2006-01-05 15:00:37.078.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Unit1.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Main_U.pas</Transaction>
+    <Transaction>2006-01-05 15:00:37.078.dfm,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Unit1.dfm=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Main_U.dfm</Transaction>
+    <Transaction>2006-01-05 15:03:03.812.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Main_U.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\MainServer_U.pas</Transaction>
+    <Transaction>2006-01-05 15:03:03.812.dfm,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Main_U.dfm=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\MainServer_U.dfm</Transaction>
+    <Transaction>2009-01-10 15:29:05.671.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Unit2.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\DataConnection.pas</Transaction>
+    <Transaction>2009-01-10 15:29:05.671.dfm,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Unit2.dfm=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\DataConnection.dfm</Transaction>
+    <Transaction>2009-01-10 15:29:50.515.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\DataConnection.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\DataConnection_U.pas</Transaction>
+    <Transaction>2009-01-10 15:29:50.515.dfm,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\DataConnection.dfm=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\DataConnection_U.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

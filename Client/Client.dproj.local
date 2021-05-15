@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006-01-28 01:03:36.906.pas,C:\Documents and Settings\Djaballah\My Documents\RAD Studio\Projects\Unit1.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Cliont\Unit1.pas</Transaction>
+    <Transaction>2006-01-28 01:03:36.906.dfm,C:\Documents and Settings\Djaballah\My Documents\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Cliont\Unit1.dfm</Transaction>
+    <Transaction>2006-01-28 01:03:37.859.dproj,C:\Documents and Settings\Djaballah\My Documents\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Cliont\Project1.dproj</Transaction>
+    <Transaction>2006-01-30 18:17:25.906.dproj,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Cliont\Project1.dproj=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Cliont\Server.dproj</Transaction>
+    <Transaction>2006-01-04 01:39:17.593.dproj,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Server.dproj=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Server\Client.dproj</Transaction>
+    <Transaction>2006-01-04 22:01:43.984.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Unit2.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Connection_U.pas</Transaction>
+    <Transaction>2006-01-04 22:01:43.984.dfm,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Unit2.dfm=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Connection_U.dfm</Transaction>
+    <Transaction>2006-01-04 22:03:19.265.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Unit1.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Main_U.pas</Transaction>
+    <Transaction>2006-01-04 22:03:19.265.dfm,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Unit1.dfm=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Main_U.dfm</Transaction>
+    <Transaction>2006-01-04 22:14:22.843.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Options_U.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\OptionsQualityPerformance_U.pas</Transaction>
+    <Transaction>2006-01-04 22:14:22.843.dfm,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Options_U.dfm=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\OptionsQualityPerformance_U.dfm</Transaction>
+    <Transaction>2006-01-04 22:17:35.593.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Connection_U.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\ConnectionOptions_U.pas</Transaction>
+    <Transaction>2006-01-04 22:17:35.593.dfm,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Connection_U.dfm=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\ConnectionOptions_U.dfm</Transaction>
+    <Transaction>2006-01-04 22:17:47.437.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\OptionsQualityPerformance_U.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\QualityPerformanceOptions_U.pas</Transaction>
+    <Transaction>2006-01-04 22:17:47.437.dfm,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\OptionsQualityPerformance_U.dfm=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\QualityPerformanceOptions_U.dfm</Transaction>
+    <Transaction>2006-01-05 14:59:09.328.pas,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Main_U.pas=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\MainClient_U.pas</Transaction>
+    <Transaction>2006-01-05 14:59:09.328.dfm,C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\Main_U.dfm=C:\Documents and Settings\Djaballah\Desktop\Remote desktop\Client\MainClient_U.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
